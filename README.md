@@ -1,5 +1,4 @@
 # hello-world
-Repository for Flatiron School
 <br/>
 Hello-
 <br/>
